@@ -10,19 +10,11 @@ do so and i assure you that if what you need is a professional willing to give
 
 Technical skills:
 
-HTML
-CSS
-SASS
-JavasCript
-Basic Notion
-Basic Figma
-Illustrator
-Photoshop
+HTML | CSS | SASS | JavasCript | Basic Notion | Basic Figma | Illustrator | Photoshop
 
 Languages:
 
-English: Medium
-Spanish: Native
+English: Medium | Spanish: Native
 
 Portfolio:
 
@@ -30,6 +22,4 @@ https://carloshoyosdesign.com
 
 Contact:
 
-Email: choyossuarez@gmail.com
-LinkedIn: https://www.linkedin.com/in/hoyos7/
-Twitter: https://twitter.com/_carloshs_
+Email: choyossuarez@gmail.com | LinkedIn: https://www.linkedin.com/in/hoyos7/ | Twitter: https://twitter.com/_carloshs_
