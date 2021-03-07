@@ -1,4 +1,4 @@
-Hi Everyone
+Hi Everyone ☺️
 
 I'm an engineer with experience in frontend web development and 3d modeling.
 Projected to continuous learning, i'm always willing to learn new things and 
