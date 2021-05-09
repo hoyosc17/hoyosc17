@@ -22,4 +22,4 @@ https://carloshoyosdesign.com
 
 Contact:
 
-Email: choyossuarez@gmail.com | LinkedIn: https://www.linkedin.com/in/hoyos7/ | Twitter: https://twitter.com/_carloshs_/
+Email: choyossuarez@gmail.com | LinkedIn: https://www.linkedin.com/in/hoyosc17/ | Twitter: https://twitter.com/hoyosc17/
