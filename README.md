@@ -18,7 +18,7 @@ English: Medium | Spanish: Native
 
 Portfolio:
 
-https://carloshoyosdesign.com
+https://hoyosc17.com
 
 Contact:
 
