@@ -10,11 +10,13 @@ do so and i assure you that if what you need is a professional willing to give
 
 Technical skills:
 
-HTML | CSS | SASS | JavaScript | Basic Notion | Basic Figma | Illustrator | Photoshop
+HTML | CSS | JavaScript | React | 
+
+Notion | Figma |
 
 Languages:
 
-English: Medium | Spanish: Native
+English: C1 | Spanish: Native
 
 Portfolio:
 
